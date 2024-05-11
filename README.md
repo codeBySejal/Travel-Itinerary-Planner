@@ -2,6 +2,7 @@
 A Gemini-pro + Streamlit powered itinerary planner
 
 Description:
+
 This Streamlit application is designed to curate personalized travel itineraries for users. By capturing the unique preferences of each traveler, the app leverages the Gemini Pro model to craft tailored itineraries, ensuring an enriching and memorable journey. Additionally, the app provides valuable travel tips to enhance the overall experience, offering insights and recommendations to make the trip even more enjoyable.
 
 Language and Technologies:
