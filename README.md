@@ -1,2 +1,2 @@
 # Travel-Itinerary-Planner
-A Gemini + Streamlit powered itinerary planner
+A Gemini-pro + Streamlit powered itinerary planner
