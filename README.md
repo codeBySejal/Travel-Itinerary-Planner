@@ -13,8 +13,8 @@ This Streamlit application is designed to curate personalized travel itineraries
 
 ##How to use:
 - Install required packages using:
-  pip install streamlit
-  pip install -q -U google-generativeai
-- Get the Gemini API key from ![Google AI studio](https://aistudio.google.com/app/apikey).
+  - pip install streamlit
+  - pip install -q -U google-generativeai
+- Get the Gemini API key from Google AI studio (https://aistudio.google.com/app/apikey).
 - Set the API key in itinerary.py script.
 - Run main.py using cmd - streamlit run main.py
